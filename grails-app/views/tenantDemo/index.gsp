@@ -1,0 +1,1 @@
+<h1>Current tenant-data => ${tenant?.tenantId}</h1>
